@@ -1,6 +1,9 @@
 Monthly Water Usage and Bill Tracker,
-in this i have provided the link of my tableau public dashboard,
-my tableau entire project link,
-screenshots of each tableau sheet of my project,
-ppt of of my project,
 
+Dashboard.pdf represenst the pdf of project dashboard
+
+Monthly water usages and bill tracker contains the pdf of ppt of project
+
+.twbx file contains the entire project
+
+slides screenshots contains the screenshots of each slide of project
